@@ -2,4 +2,6 @@
 <resources>
 	<string name="hello">Hello World, Click Me!</string>
 	<string name="app_name">MvxSqlite.Droid</string>
+	<string name="save_button_text">Save</string>
+	<string name="load_button_text">Load</string>
 </resources>
