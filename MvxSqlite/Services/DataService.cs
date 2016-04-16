@@ -1,5 +1,4 @@
-﻿using System;
-using MvxSqlite.Models;
+﻿using MvxSqlite.Models;
 using MvvmCross.Plugins.Sqlite;
 using SQLite.Net;
 

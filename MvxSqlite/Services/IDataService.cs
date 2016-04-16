@@ -1,4 +1,3 @@
-using System;
 using MvxSqlite.Models;
 
 namespace MvxSqlite.Services

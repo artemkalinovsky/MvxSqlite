@@ -1,11 +1,10 @@
 ﻿using Android.App;
-using Android.Widget;
 using Android.OS;
 using MvvmCross.Droid.Views;
 
 namespace MvxSqlite.Droid
 {
-    [Activity(Label = "MvxSqlite", MainLauncher = true, Icon = "@mipmap/icon")]
+    [Activity(Label = "MvxSqlite")]
     public class MainActivity : MvxActivity
     {
         protected override void OnCreate(Bundle savedInstanceState)

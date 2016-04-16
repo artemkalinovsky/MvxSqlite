@@ -1,5 +1,4 @@
-﻿using System;
-using MvvmCross.iOS.Platform;
+﻿using MvvmCross.iOS.Platform;
 using UIKit;
 using MvvmCross.Core.ViewModels;
 

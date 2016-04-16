@@ -1,15 +1,12 @@
 using Android.Content;
 using MvvmCross.Droid.Platform;
 using MvvmCross.Core.ViewModels;
-using MvvmCross.Platform.Platform;
-using System.Collections.Generic;
-using System.Reflection;
 
 namespace MvxSqlite.Droid
 {
-    public class MvxSqliteSetup : MvxAndroidSetup
+    public class Setup : MvxAndroidSetup
     {
-        public MvxSqliteSetup(Context applicationContext) : base(applicationContext)
+        public Setup(Context applicationContext) : base(applicationContext)
         {
             
         }
